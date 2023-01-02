@@ -1,0 +1,84 @@
+{
+  "types": [
+    {
+      "_id": "a311c6e4-3646-4a04-9374-77ef6f7c5cbe",
+      "name": "normal"
+    },
+    {
+      "_id": "d65f2239-7e94-4a59-9ce7-323b884a0a1d",
+      "name": "fighting"
+    },
+    {
+      "_id": "f1b31b7c-9f82-47a7-9609-d9077bdc84a8",
+      "name": "flying"
+    },
+    {
+      "_id": "ab2fb08f-5971-4b3d-b79c-4fbaca2f11d8",
+      "name": "poison"
+    },
+    {
+      "_id": "edc3bc53-7b49-490a-9c6f-fb40aa4a93a3",
+      "name": "ground"
+    },
+    {
+      "_id": "11334769-9bd9-44d0-a899-68ededacadaa",
+      "name": "rock"
+    },
+    {
+      "_id": "a4646688-e32c-4434-bf50-394d390f2f3e",
+      "name": "bug"
+    },
+    {
+      "_id": "31a960a0-8f4f-4ca8-b588-fe31062f53b1",
+      "name": "ghost"
+    },
+    {
+      "_id": "493599cd-d61c-41b7-8be3-ff31924f52fe",
+      "name": "steel"
+    },
+    {
+      "_id": "55d5e3e3-3bff-4238-8e3e-aee942c7ecd2",
+      "name": "fire"
+    },
+    {
+      "_id": "e56972e5-4c04-4968-ab6c-5705571e58c5",
+      "name": "water"
+    },
+    {
+      "_id": "19dc6ab1-6ad1-409d-8d75-035fdee3e23a",
+      "name": "grass"
+    },
+    {
+      "_id": "d26f7bb2-ffa5-4aff-8192-0de1f26bc3ab",
+      "name": "electric"
+    },
+    {
+      "_id": "406c8106-1d29-40fc-a642-ca61ebbe8412",
+      "name": "psychic"
+    },
+    {
+      "_id": "0407bc63-c941-4a26-afab-a38822a875c8",
+      "name": "ice"
+    },
+    {
+      "_id": "32c9c332-743a-4aa1-8e86-76e3fda67167",
+      "name": "dragon"
+    },
+    {
+      "_id": "f13813db-7d1e-4a4c-80e7-735960c74465",
+      "name": "dark"
+    },
+    {
+      "_id": "10f1c501-c819-44f2-bcea-dae4d93aa868",
+      "name": "fairy"
+    },
+    {
+      "_id": "3247e7bd-f755-4fad-8be3-cb1c2cbb4473",
+      "name": "unknown"
+    },
+    {
+      "_id": "5d48211f-8835-4c95-b19c-5a1eb74fd5ed",
+      "name": "shadow"
+    }
+  ]
+}

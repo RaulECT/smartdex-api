@@ -1,0 +1,154 @@
+{
+  "natures": [
+    {
+      "_id": "02b9a1d2-727e-4aad-9417-8d2a45fc9bbe",
+      "name": "hardy",
+      "increased_stat": null,
+      "decreased_stat": null
+    },
+    {
+      "_id": "88166a71-d311-41c3-83ae-b51a79a59a43",
+      "name": "bold",
+      "increased_stat": "defense",
+      "decreased_stat": "attack"
+    },
+    {
+      "_id": "3f44d2c5-60d7-4c3b-ba1f-77503da52f63",
+      "name": "modest",
+      "increased_stat": "special-attack",
+      "decreased_stat": "attack"
+    },
+    {
+      "_id": "78f2cf86-34e5-4f69-959d-5ea6379f17c5",
+      "name": "calm",
+      "increased_stat": "special-defense",
+      "decreased_stat": "attack"
+    },
+    {
+      "_id": "e4b71ab2-ede4-41fa-9017-304ff9de2475",
+      "name": "timid",
+      "increased_stat": "speed",
+      "decreased_stat": "attack"
+    },
+    {
+      "_id": "3829af8d-570f-4688-b395-f2ec9b4d50c9",
+      "name": "lonely",
+      "increased_stat": "attack",
+      "decreased_stat": "defense"
+    },
+    {
+      "_id": "c1516d34-77e3-4cf6-a2ac-4854ebf718ec",
+      "name": "docile",
+      "increased_stat": null,
+      "decreased_stat": null
+    },
+    {
+      "_id": "3e7c5e26-dae6-4681-b246-96d7dca7d262",
+      "name": "mild",
+      "increased_stat": "special-attack",
+      "decreased_stat": "defense"
+    },
+    {
+      "_id": "afe01fa9-727e-4bbe-bf94-7fc0fb5aff7c",
+      "name": "gentle",
+      "increased_stat": "special-defense",
+      "decreased_stat": "defense"
+    },
+    {
+      "_id": "ba42f346-1736-44d9-a7c6-9ffd545598a0",
+      "name": "hasty",
+      "increased_stat": "speed",
+      "decreased_stat": "defense"
+    },
+    {
+      "_id": "ec4a13f3-1dec-4633-8441-8f30c8928a1f",
+      "name": "adamant",
+      "increased_stat": "attack",
+      "decreased_stat": "special-attack"
+    },
+    {
+      "_id": "56fd541b-d4a4-4f6c-abb2-54c86278e34b",
+      "name": "impish",
+      "increased_stat": "defense",
+      "decreased_stat": "special-attack"
+    },
+    {
+      "_id": "b1cd354f-e4fa-43ee-8e59-e901c842fe2e",
+      "name": "bashful",
+      "increased_stat": null,
+      "decreased_stat": null
+    },
+    {
+      "_id": "77782a17-c749-4bab-b032-6aea6b37774d",
+      "name": "careful",
+      "increased_stat": "special-defense",
+      "decreased_stat": "special-attack"
+    },
+    {
+      "_id": "8fcab993-d514-4e10-adb4-8dc31b33e11c",
+      "name": "rash",
+      "increased_stat": "special-attack",
+      "decreased_stat": "special-defense"
+    },
+    {
+      "_id": "d5a04511-e3d5-4bf0-a3ef-b4a75acfb6e5",
+      "name": "jolly",
+      "increased_stat": "speed",
+      "decreased_stat": "special-attack"
+    },
+    {
+      "_id": "1c25d686-f42f-4ca0-a172-0f286d3b98ef",
+      "name": "naughty",
+      "increased_stat": "attack",
+      "decreased_stat": "special-defense"
+    },
+    {
+      "_id": "66f98884-93d6-43a3-9ffc-c5585969d52a",
+      "name": "lax",
+      "increased_stat": "defense",
+      "decreased_stat": "special-defense"
+    },
+    {
+      "_id": "b2e5cba9-c51e-4c74-993c-835006e212fe",
+      "name": "quirky",
+      "increased_stat": null,
+      "decreased_stat": null
+    },
+    {
+      "_id": "7ca32161-8da0-48da-8241-a0c1cc8aa0ab",
+      "name": "naive",
+      "increased_stat": "speed",
+      "decreased_stat": "special-defense"
+    },
+    {
+      "_id": "d780817d-f426-4757-baa7-45d6cc59a038",
+      "name": "brave",
+      "increased_stat": "attack",
+      "decreased_stat": "speed"
+    },
+    {
+      "_id": "0f4c571e-344e-400f-b2e3-5fab0eec024a",
+      "name": "relaxed",
+      "increased_stat": "defense",
+      "decreased_stat": "speed"
+    },
+    {
+      "_id": "00a5e830-d4c2-4a04-9995-e4d9ed6e8008",
+      "name": "quiet",
+      "increased_stat": "special-attack",
+      "decreased_stat": "speed"
+    },
+    {
+      "_id": "db1425f6-0843-4b84-bf15-3272b1530ade",
+      "name": "sassy",
+      "increased_stat": "special-defense",
+      "decreased_stat": "speed"
+    },
+    {
+      "_id": "bec8e21b-9a89-4a5b-a4ee-135b02803ade",
+      "name": "serious",
+      "increased_stat": null,
+      "decreased_stat": null
+    }
+  ]
+}
