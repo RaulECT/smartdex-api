@@ -35,8 +35,7 @@ export async function getPokemonGeneralInfo(pokemon: string) {
       damage_relation: damageRelation,
     };
 
-    console.log('[data]', pokemonResult);
-    console.log(pokemonInfo);
+    return pokemonInfo;
   } catch (error) {
     console.log('[error]', error);
   }
