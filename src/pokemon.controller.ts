@@ -7,7 +7,7 @@ export class PokemonController {
   constructor(private pokemonService: PokemonService) {}
 
   @Get(':pokemon')
-  getPokemon(@Param() params): Promise<PokemonIn> {
-    return this.pokemonService.findOne(params.pokemon);
+  getPokemon(@Param('pokemon') pokemon: string): Promise<PokemonIn> {
+    return this.pokemonService.findOne(pokemon);
   }
 }
