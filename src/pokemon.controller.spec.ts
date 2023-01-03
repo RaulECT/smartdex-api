@@ -17,7 +17,7 @@ describe('PokemonController', () => {
   describe('[Pokemon Controller]', () => {
     it('should return pokemon info', async () => {
       const pokemonInfo = await pokemonController.getPokemon('gallade');
-      console.log('[pokemonInfo]', pokemonInfo);
+
       expect(pokemonInfo).not.toBeNull();
     });
   });
