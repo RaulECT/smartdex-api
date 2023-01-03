@@ -80,7 +80,7 @@ export function sugestPokemonNatures(pokemonStats: PokemonStatIn[]): string[] {
         nature.decreased_stat === combination.decreased_stat &&
         nature.increased_stat === combination.increased_stat,
     );
-    return nature.name;
+    return nature?.name || '';
   });
 
   return natureSugested;
