@@ -25,12 +25,14 @@ export async function getPokemonGeneralInfo(pokemon: string) {
     }));
     const sugestedNatures = sugestPokemonNatures(stats);
     const damageRelation = getDamageRelationByTypes(types);
+    const sprites = pokemonResult.sprites;
 
     const pokemonInfo: PokemonIn = {
       name,
       stats,
       types,
       abilities,
+      sprites,
       sugested_nature: sugestedNatures,
       damage_relation: damageRelation,
     };
